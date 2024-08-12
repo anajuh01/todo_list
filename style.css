@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    height: 100svh;
+    background-repeat: no-repeat;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+header {
+    padding: 16px 24px;
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1160px;
+    margin-inline: auto;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+main {
+    margin: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.caixa {
+    padding: 20px;
+}
+
+body {
+    border: 20px;
+}
+
+.mais {
+    font-size: 20px;
+    padding: 3px;
+    gap: 10px;
+    color: rgb(9, 83, 107);
+    background-color: rgb(94, 182, 211);
+ }
+
+.check {
+    background-color: lightblue;
+}
+
+img {
+    width: 20px;
+    border: none;
+}
